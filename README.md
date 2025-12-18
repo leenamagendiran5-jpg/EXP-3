@@ -40,9 +40,9 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 
-<img width="519" height="724" alt="Screenshot 2025-12-18 160012" src="https://github.com/user-attachments/assets/c05db6e0-4ebb-4211-a32d-50ccc0ee53b5" />
+![B EEE ex 03](https://github.com/user-attachments/assets/2304a236-1fa9-4297-baf0-fb81753ce1b6)
+![B EEE 03 result](https://github.com/user-attachments/assets/ca26e90a-2f93-49e8-979a-87b520701269)
 
-<img width="437" height="717" alt="Screenshot 2025-12-18 160053" src="https://github.com/user-attachments/assets/c7ef4126-3d37-4714-9e6b-ae71f26469b7" />
 
 **Direct connection: CIRCUIT DIAGRAM:**
 
@@ -50,15 +50,14 @@ switch2.
 
 **Tabulation:1**
 
-<img width="1034" height="577" alt="Screenshot 2025-12-18 155806" src="https://github.com/user-attachments/assets/0c985071-6891-4c2d-9589-92addd64397b" />
+![BEE EX 03 TABLE 1](https://github.com/user-attachments/assets/e9d6ed7f-50db-423c-a451-85f869f72586)
 
-**Cross connection: CIRCUIT DIAGRAM:**
 
 <img width="1024" height="560" alt="Screenshot 2025-12-18 155839" src="https://github.com/user-attachments/assets/1984416b-dab0-427d-824c-f84808f7c8c6" />
 
 **Tabulation:2**
 
-<img width="1078" height="849" alt="Screenshot 2025-12-18 155927" src="https://github.com/user-attachments/assets/37d08b65-a2ab-4eb4-9273-5d9f118da741" />
+![BEE EX 03 TABLE 2](https://github.com/user-attachments/assets/0d2c2efa-64e6-471e-81ff-fe9852717f4d)
 
 **RESULT**:
 Thus the staircase wiring is connected and tested.
